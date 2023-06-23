@@ -2,6 +2,16 @@
 # streamlit hello
 # mostrar site do streamlit
 
+''' Vantagens do streamlit
+- Compativel com scikit, kers, numpy, pandas, tf etc
+- Facil de desenvolver
+- Web Development seguro
+- Sem html, css, js
+- Facil de dar deploy
+- Entrada de dados via Python
+'''
+
+
 import streamlit as st
 
 # Escrevemos em markdown
